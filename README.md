@@ -44,13 +44,13 @@ This repository contains some script tools to download and process  [FDA Adverse
 
   The file after DRUGNAME standardized process is named **drugNorm.csv** and saved to **FAERSdataMerge** folder.
 
-  **Requirements: **Download **CONCEPT.csv** and **CONCEPT_SYNONYM.csv** from [OHDSI OMOP Common Data Model (CDM)](<https://www.ohdsi.org/>) , and keep them in **Norm** folder.
+  **Requirements:** Download **CONCEPT.csv** and **CONCEPT_SYNONYM.csv** from [OHDSI OMOP Common Data Model (CDM)](<https://www.ohdsi.org/>) , and keep them in **Norm** folder.
 
 - **faersReactionNormalize.py**
 
   The file after PT standardized process is named **drugReacNorm.csv** and saved to **FAERSdataMerge** folder.
 
-  **Requirements: **Download **CONCEPT.csv** and **CONCEPT_SYNONYM.csv** from [OHDSI OMOP Common Data Model (CDM)](<https://www.ohdsi.org/>) , and keep them in **Norm** folder.
+  **Requirements:** Download **CONCEPT.csv** and **CONCEPT_SYNONYM.csv** from [OHDSI OMOP Common Data Model (CDM)](<https://www.ohdsi.org/>) , and keep them in **Norm** folder.
 
   
 
