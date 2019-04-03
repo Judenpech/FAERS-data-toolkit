@@ -1,0 +1,1 @@
+Download CONCEPT.csv and CONCEPT_SYNONYM.csv from OHDSI OMOP Common Data Model (CDM) , and keep them in this folder.
