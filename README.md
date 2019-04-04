@@ -1,6 +1,6 @@
 # FAERS Data Toolkit
 
-This repository contains some script tools to download and process  [FDA Adverse Event Reporting System **(FAERS)**](https://www.fda.gov/Drugs/GuidanceComplianceRegulatoryInformation/Surveillance/AdverseDrugEffects/) ASCII dataset. The toolkit uses [FAERS data files](https://www.fda.gov/Drugs/GuidanceComplianceRegulatoryInformation/Surveillance/AdverseDrugEffects/ucm082193.htm) which is publicly available online. 
+This repository contains some script tools to download and process  [FDA Adverse Event Reporting System **(FAERS)**](https://www.fda.gov/Drugs/GuidanceComplianceRegulatoryInformation/Surveillance/AdverseDrugEffects/) ASCII dataset. The toolkit uses [FAERS data files](https://www.fda.gov/Drugs/GuidanceComplianceRegulatoryInformation/Surveillance/AdverseDrugEffects/ucm082193.htm) which is available online. 
 
 
 
@@ -10,7 +10,7 @@ This repository contains some script tools to download and process  [FDA Adverse
 
 - Download all(2004Q1-now) FAERS/AERS data files and delete unwanted files(you can customize this).
 
-- Data preprocess(DEMO, DRUG, REAC, OUTC in FAERS data files only). See [script]() for more information.
+- Data preprocess(DEMO, DRUG, REAC, OUTC in FAERS data files only). See [script](https://github.com/jl223vy/FAERS-data-toolkit/blob/master/faersPreprocess.py) for more information.
 
 - Merge all DEMO, DRUG, REAC/OUTC into a CSV file.
 
