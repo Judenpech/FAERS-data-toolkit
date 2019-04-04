@@ -24,7 +24,7 @@ This repository contains some script tools to download and process  [FDA Adverse
 
 - **faersDownloader.py**
 
-  FAERS/AERS data files download link is saved to local **FaersFilesWebUrls.txt** file.
+  FAERS/AERS data files download link is saved in local **FaersFilesWebUrls.txt** file.
 
   The source data files are saved in the local **FAERSsrc**(automatically generated) folder.
 
@@ -38,7 +38,7 @@ This repository contains some script tools to download and process  [FDA Adverse
 
 - **faersDataMerge.py**
 
-  The merged file is named **faersDataLightGBM.csv** and saved to **FAERSdataMerge**(automatically generated) folder.
+  The merged file is named **faersDataLightGBM.csv** and saved in **FAERSdataMerge**(automatically generated) folder.
 
 - **faersDrugNormalize.py**
 
